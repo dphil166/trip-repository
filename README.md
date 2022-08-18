@@ -1,1 +1,2 @@
-# trip-repository
+
+welcome to the day trip generator!!!
